@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">habit it</string>
+    <string name="title_activity_main">habit it</string>
+    <string name="package_name">com.salemkode.habit_it</string>
+    <string name="custom_url_scheme">com.salemkode.habit_it</string>
+</resources>
