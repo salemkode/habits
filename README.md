@@ -1,4 +1,4 @@
-# habits
+# habits ( beta )
 
 > Simple app for manage your habits
 
